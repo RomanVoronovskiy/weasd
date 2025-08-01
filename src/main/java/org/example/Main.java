@@ -5,5 +5,6 @@ public class Main {
         System.out.println("сделал 1");
         System.out.println("сделал 2");
         System.out.println("сделал 3");
+        System.out.println("сделал 5");
     }
 }
